@@ -1,0 +1,51 @@
+{
+  "manifest_version": 2,
+  "version": "0.2",
+  "name": "Kagami_Hiiragi-R1",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/theme_frame_R1.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "top_site_inner": "rgb(54, 58, 89)",
+      "ntp_card_background": "rgb(22, 21, 20, 1)",
+      "ntp_background": "rgb(22, 21, 20)",
+      "toolbar": "rgba(22, 21, 20, 0.60)",
+      "toolbar_text": "rgb(0, 204, 238)",
+      "frame": "rgb(8, 11, 33)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(22, 21, 20)",
+      "toolbar_field_text": "rgb(231, 1, 136)",
+      "tab_line": "rgb(205, 35, 185)",
+      "popup": "rgb(22, 21, 20)",
+      "popup_text": "rgb(215, 226, 239)",
+      "icons": "rgb(255, 255, 255)",
+      "popup_border": "rgb(205, 35, 185)",
+      "popup_highlight_text": "rgb(45, 182, 217)",
+      "popup_highlight": "rgb(127, 35, 214)",
+      "sidebar_border": "rgb(205, 35, 185)",
+      "sidebar_highlight": "rgb(0, 0, 0)",
+      "sidebar": "rgb(22, 21, 20)",
+      "sidebar_highlight_text": "rgb(255, 0, 149)",
+      "tab_background_separator": "rgb(255, 0, 149)",
+      "toolbar_field_focus": "rgb(22, 21, 20)",
+      "toolbar_bottom_separator": "rgb(0, 0, 0)",
+      "toolbar_field_border": "rgb(26, 128, 154)",
+      "toolbar_field_highlight": "rgb(31, 34, 61)",
+      "toolbar_field_text_focus": "rgb(231, 1, 136)",
+      "tab_loading": "rgb(205, 35, 185)",
+      "toolbar_top_separator": "rgb(0, 0, 0)",
+      "toolbar_vertical_separator": "rgb(205, 35, 185)"
+    }
+  }
+}
